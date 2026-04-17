@@ -1,12 +1,17 @@
-# Jupyter Notebook Content
-## [Computational Tools for Research](https://comptoolsres.github.io/)
+# Python and AI Crash Course
 
-Matt Gitzendanner
+Pretty much straight up stolen from Matt Gitzendanner's [comptoolres/Jupyter_content](https://github.com/comptoolsres/Jupyter_content), which he largely adapted from Chuck Severance's [Python for Everyone](https://www.py4e.com).
 
-This repo contains the Jupyter Notebook portions of my notes for the class. These are then served via the free [mybinder.org](https://mybinder.org/) site.
+For the SF2UF Summer 2026 course, the tentative schedule is going to be:
+- May 13 - Why Program? Why Python? Why Not AI?!, Clone Repo, Ch 2: Variables
+- May 20 - Ch 3: Conditionals
+- May 27 - Ch 4: Functions
+- Jun 3 - Ch 5: Iteration, Ch 6: Strings
+- Jun 10 – Ch 7: Files
+- Jun 17 – Ch 8: Lists
+- Jul 1 – Ch 9: Dictionaries; Ch_10: Tuples
+- Jul 15 – AI Perceptron/Deep Forest
+- Jul 22 – AI Vision/Transfer
+- Jul 29 – AI LLM
 
-View in Binder:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/comptoolsres/Jupyter_content.git/master)
-
-Or, for students in the class, view in UF Research Computing [Jupyter Hub](https://jhub.rc.ufl.edu/) (must be on UF network)
-  * Clone this repo to your own directory and before each class, run `git pull` to get the latest content.
-  
+There is a lot of content in this repo that we won't be using in the class! If you're interested in learning to program with Python, feel free to work ahead.
